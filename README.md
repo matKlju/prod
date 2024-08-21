@@ -1,9 +1,9 @@
 Running ALL tests
-´´´
+``` 
 npx playwright test
-´´´
+``` 
 
-´´´
+``` 
 .
 ├── chatBox
 │   ├── closingMenu
@@ -20,4 +20,5 @@ npx playwright test
 └── landingPage
     ├── functionality.spec.js
     └── visibility.spec.js
-´´´
+```
+
