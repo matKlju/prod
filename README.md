@@ -78,6 +78,7 @@ NB! All tests are saved (including video, screenshot and trace) in the local dir
 * ```/playwright-report```  
 * ```/test-results```
 
+
 # Test directory tree:
 ``` 
 .
