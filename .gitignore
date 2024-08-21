@@ -5,3 +5,4 @@ node_modules/
 /playwright/.cache/
 /venv/
 venv/
+README.md:Zone.Identifier
